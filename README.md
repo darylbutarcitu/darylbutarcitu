@@ -5,7 +5,7 @@
 ![Views](https://komarev.com/ghpvc/?username=darylbutarcitu&color=blue)  
 
 ## 🚀 About Me  
-🎓 **Computer Engineering Student @ CITU**  
+🎓 **Computer Engineering Student @ CIT-U**  
 
 
 🌱 **Currently Learning:**  
