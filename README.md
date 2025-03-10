@@ -86,4 +86,8 @@
 
 🔥 **"Code, Debug, Repeat!"** 🔥  
 
+<br><br>
+<img src="https://profile-counter.glitch.me/darylbutarcitu/count.svg?"  />
+
+
 </div>
