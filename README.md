@@ -6,7 +6,6 @@
 
 ## 🚀 About Me  
 🎓 **Computer Engineering Student @ CITU**  
-🛠 **Building projects using various technologies**  
 
 
 🌱 **Currently Learning:**  
