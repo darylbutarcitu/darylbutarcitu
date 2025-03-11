@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/VCOhEfHutr6jxvVtC9/giphy.gif" width="200">
-
-![Views](https://komarev.com/ghpvc/?username=darylbutarcitu&color=blue)  
+<img height="120" src="https://s6.ezgif.com/tmp/ezgif-61ede8ea99032b.gif" /><br>
+<img src="https://profile-counter.glitch.me/darylbutarcitu/count.svg?"  />
 
 ## 🚀 About Me  
 🎓 **Computer Engineering Student @ CIT-U**  
@@ -88,8 +87,6 @@
 
 🔥 **"Code, Debug, Repeat!"** 🔥  
 
-<br><br>
-<img src="https://profile-counter.glitch.me/darylbutarcitu/count.svg?"  />
 
 
 </div>
