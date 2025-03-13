@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="120" src="https://s6.ezgif.com/tmp/ezgif-61ede8ea99032b.gif" /><br>
+<img height="120" src="https://raw.githubusercontent.com/darylbutarcitu/darylbutarcitu/refs/heads/main/hi_robot.gif" /><br>
 <img src="https://profile-counter.glitch.me/darylbutarcitu/count.svg?"  />
 
 ## 🚀 About Me  
