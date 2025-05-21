@@ -10,7 +10,7 @@
 🌱 **Currently Learning:**  
 🌐 Web-based C Compiler  
 🔥 Advanced C# Windows Forms Development  
-⚙️ Rust & Blockchain Fundamentals  
+<!-- ⚙️ Rust & Blockchain Fundamentals -->
 <br>
 
 ## 💻 Technologies & Tools 
