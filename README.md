@@ -4,7 +4,7 @@
 <img src="https://profile-counter.glitch.me/darylbutarcitu/count.svg?"  />
 
 ## 🚀 About Me  
-🎓 **Computer Engineering Student @ CIT-U**  
+🎓 **Computer Engineering @ CIT-U**  
 
 
 🌱 **Currently Learning:**  
