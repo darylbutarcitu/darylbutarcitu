@@ -8,9 +8,9 @@
 
 
 🌱 **Currently Learning/Reviewing:**  
-🌐 Unix/Linux Commands
-⚡️ Embedded C/C++ 
-🔥 Advanced C# Windows Forms Development  
+🌐 Unix/Linux Commands <br>
+⚡️ Embedded C/C++ <br>
+🔥 Advanced C# Windows Forms Development <br>
 <!-- ⚙️ Rust & Blockchain Fundamentals -->
 <br>
 
