@@ -7,8 +7,9 @@
 🎓 **Computer Engineering @ CIT-U**  
 
 
-🌱 **Currently Learning:**  
-🌐 Web-based C Compiler  
+🌱 **Currently Learning/Reviewing:**  
+🌐 Unix/Linux Commands
+⚡️ Embedded C/C++ 
 🔥 Advanced C# Windows Forms Development  
 <!-- ⚙️ Rust & Blockchain Fundamentals -->
 <br>
