@@ -11,8 +11,10 @@
 🌐 Unix/Linux Commands <br>
 ⚡️ Embedded C/C++ <br>
 🔥 Advanced C# Windows Forms Development <br>
-<!-- ⚙️ Rust & Blockchain Fundamentals -->
+
 <br>
+Fast Learner <br>
+Open to challenges <br>
 
 ## 💻 Technologies & Tools 
 
