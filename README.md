@@ -1,7 +1,7 @@
 <div align="center">
 
 <img height="120" src="https://raw.githubusercontent.com/darylbutarcitu/darylbutarcitu/refs/heads/main/hi_robot.gif" /><br>
-<img src="https://profile-counter.glitch.me/darylbutarcitu/count.svg?"  />
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=darylbutarcitu)
 
 ## 🚀 About Me  
 🎓 **Computer Engineering @ CIT-U**  
